@@ -25,18 +25,18 @@ header .container{
     justify-content: space-between;
 }
 
+/*Logotipo netflix*/
 header .logo{
-    color: var(--vermelho);
-    font-family: 'Arial Black';
-    font-size: 30px;
-    margin-left: 5px;
+        margin: 10px 10px 05px 10px;
+        outline: 0; 
  
 }
 
 header nav a{
     text-decoration: none;
     color: #aaa;
-    margin-right: 10px;
+    margin-right: 1px;
+    font-family: NotoSans,Arial,"Arial Unicode MS",sans-serif;
 
 }
 
@@ -91,4 +91,26 @@ header nav a:hover{
 
 .botao i{
     margin-right: 8px;
+
+}
+
+//.filme-principal .container{
+    margin-left: 40px;
+    width: 70%;
+}
+
+//.container {
+    margin-left: 2%;
+    margin-right: 2%;
+}
+
+.menu {
+    font-size: 15px;
+    font-family: 'arial narrow';
+}
+
+.box-filme{
+    height: 100%;
+    width: 100%;
+    display: block;
 }
