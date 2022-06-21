@@ -1,5 +1,5 @@
-git add .
+git add *
 
-git commit -m "Alteração da logo"
+git commit -m "Alteracao da logo"
 
 git push origin main
