@@ -1,5 +1,5 @@
-git add *
+git add .
 
-git commit -m "Adicionado o link no botao (assisitir) da serie rarefeito"
+git commit -m "Alteração da logo"
 
 git push origin main
